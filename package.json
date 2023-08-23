@@ -1,0 +1,23 @@
+{
+  "name": "subgraph_unlockdborrows",
+  "version": "1.0.0",
+  "description": "checks for all unlockd borrows",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fepvenancio/subgraph_unlockdBorrows.git"
+  },
+  "keywords": [
+    "unlockd",
+    "subgraph"
+  ],
+  "author": "fepvenancio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fepvenancio/subgraph_unlockdBorrows/issues"
+  },
+  "homepage": "https://github.com/fepvenancio/subgraph_unlockdBorrows#readme"
+}
